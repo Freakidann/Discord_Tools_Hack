@@ -3,3 +3,6 @@
 ```[Freakibot hack]```
 
 Discord tool Hack
+
+1) - Mettez votres Token dans Tokens.txt
+2) - Lancez DeathCord 
